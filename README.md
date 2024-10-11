@@ -11,6 +11,7 @@ Below is the list of Micro projects in this repo along with the links
 | ![Securing Micro Services](https://img.shields.io/badge/Securing%20Micro%20Services-red.svg)        | https://github.com/pavanuppuluri/Secured-Rest-API           |
 | ![Tutorial App using spring boot and JPA](https://img.shields.io/badge/Tutorial%20App-Using%20spring%20boot%20and%20JPA-red.svg)        | https://github.com/pavanuppuluri/tutorial-app-spring-boot-jpa           |
 | ![Tutorial App using spring boot and MongoDB](https://img.shields.io/badge/Tutorial%20App-Using%20spring%20boot%20and%20MongoDB-red.svg)        | https://github.com/pavanuppuluri/Spring-Boot-MongoDB-CRUD           |
+| ![App using spring boot and MongoDB](https://img.shields.io/badge/App-Using%20spring%20boot%20and%20jpa,%20paging,%20sorting-red.svg)        | https://github.com/pavanuppuluri/spring-boot-jpa-paging-sorting           |
 
 
 
