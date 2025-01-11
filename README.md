@@ -17,8 +17,7 @@ Below is the list of Micro projects in this repo along with the links
 | ![Spring Boot + GraphQL example](https://img.shields.io/badge/Spring%20Boot%20+%20GraphQL%20Example%20-red.svg)        | https://github.com/pavanuppuluri/spring-boot-graphql-example|
 | ![Spring Transaction Management](https://img.shields.io/badge/Spring%20Transaction%20Management%20-red.svg)        | https://github.com/pavanuppuluri/spring-transaction-management|
 | ![Spring Aspect Oriented Programming](https://img.shields.io/badge/Spring%20AOP%20-red.svg)        | https://github.com/pavanuppuluri/Spring-Aspect-Oriented-Programming-AOP|
-
-
+| ![Spring Boot Task Scheduling](https://img.shields.io/badge/Spring%20Boot%20Task%20Scheduling%20-red.svg)        | https://github.com/pavanuppuluri/Spring-Boot-Task-Scheduling|
 
 <small>Thank you, <br> Happy Coding!!!</small>
 
