@@ -13,7 +13,8 @@ Below is the list of Micro projects in this repo along with the links
 | ![Tutorial App using spring boot and MongoDB](https://img.shields.io/badge/Tutorial%20App-Using%20spring%20boot%20and%20MongoDB-red.svg)        | https://github.com/pavanuppuluri/Spring-Boot-MongoDB-CRUD           |
 | ![App using spring boot and MongoDB](https://img.shields.io/badge/App-Using%20spring%20boot%20and%20jpa,%20paging,%20sorting-red.svg)        | https://github.com/pavanuppuluri/spring-boot-jpa-paging-sorting           |
 | ![Spring cloud, zuul & eureka](https://img.shields.io/badge/Microservices%20using%20spring%20cloud,zuul%20&%20eureka-red.svg)        | https://github.com/pavanuppuluri/Microservices-spring-boot-spring-cloud-zuul-gateway-eureka           |
-| ![Feign client](https://img.shields.io/badge/Feign%20client&%20eureka-red.svg)        | https://github.com/pavanuppuluri/spring-microservice-communication-using-feignclient           |
+| ![Feign client](https://img.shields.io/badge/Feign%20client&%20eureka-red.svg)        | https://github.com/pavanuppuluri/spring-microservice-communication-using-feignclient          |
+| ![Spring Boot + GraphQL example](https://img.shields.io/badge/Spring%20Boot%20+%20GraphQL%20Example%20-red.svg)        | https://github.com/pavanuppuluri/spring-boot-graphql-example|
 
 
 
