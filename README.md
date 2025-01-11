@@ -16,11 +16,9 @@ Below is the list of Micro projects in this repo along with the links
 | ![Feign client](https://img.shields.io/badge/Feign%20client&%20eureka-red.svg)        | https://github.com/pavanuppuluri/spring-microservice-communication-using-feignclient          |
 | ![Spring Boot + GraphQL example](https://img.shields.io/badge/Spring%20Boot%20+%20GraphQL%20Example%20-red.svg)        | https://github.com/pavanuppuluri/spring-boot-graphql-example|
 | ![Spring Transaction Management](https://img.shields.io/badge/Spring%20Transaction%20Management%20-red.svg)        | https://github.com/pavanuppuluri/spring-transaction-management|
+| ![Spring Aspect Oriented Programming](https://img.shields.io/badge/Spring%20AOP%20-red.svg)        | https://github.com/pavanuppuluri/Spring-Aspect-Oriented-Programming-AOP|
 
 
 
+<small>Thank you, <br> Happy Coding!!!</small>
 
-
-
-
-Happy Coding!!!
