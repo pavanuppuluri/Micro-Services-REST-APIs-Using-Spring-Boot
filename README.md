@@ -20,6 +20,9 @@ Below is the list of Micro projects in this repo along with the links
 | ![Spring Boot Task Scheduling](https://img.shields.io/badge/Spring%20Boot%20Task%20Scheduling%20-red.svg)        | https://github.com/pavanuppuluri/Spring-Boot-Task-Scheduling|
 | ![Connection pooling](https://img.shields.io/badge/Connection%20pooling%20-red.svg)        | https://github.com/pavanuppuluri/Hikari-Connection-Pooling|
 | ![REST APIs with https](https://img.shields.io/badge/REST%20APIs%20with%20https%20-red.svg)        | https://github.com/pavanuppuluri/REST-API-with-HTTPS|
+| ![Distributed tracing - Sleuth, Zipkin](https://img.shields.io/badge/Distributed%20Tracing%20with%20Sleuth,%20Zipkin%20-red.svg) |https://github.com/pavanuppuluri/Spring-Boot-Sleuth|
+
+
 
 
 
